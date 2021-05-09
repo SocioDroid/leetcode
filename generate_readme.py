@@ -21,6 +21,11 @@ for key, value in solvedProblems.items():
     readme+="|{}|[{}]({})|[C++]({})|\n".format(key,value[0],value[1],value[2])
 
 print(readme)
+f = open("README.md", 'r+')
+f.seek(0)
+f.write(readme)
+f.truncate()
+f.close()
 
 import glob
 import os
