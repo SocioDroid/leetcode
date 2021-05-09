@@ -3,7 +3,7 @@ from os.path import isfile, join
 from collections import OrderedDict
 
 onlyfiles = [f for f in listdir(".") if isfile(join(".", f))]
-solvedProblems = OrderedDict()
+solvedProblems = {}
 
 readme='''
 # Leetcode Solutions
@@ -16,7 +16,8 @@ for i in onlyfiles:
     namesplit = i.split('.')
     if len(namesplit)==3:        
         solvedProblems[int(namesplit[0])] =   [" ".join(namesplit[1].split("-")),"https://leetcode.com/problems/"+namesplit[1],i, namesplit[-1]]
-
+solvedProblems = OrderedDict(sorted(solvedProblems.items()))
+# print(solvedProblems)
 for key, value in solvedProblems.items():
     if value[-1] == "cpp":
         readme+="|{}|[{}]({})|[C++]({})|\n".format(key,value[0],value[1],value[2])
