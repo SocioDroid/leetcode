@@ -56,10 +56,12 @@ My accepted leetcode solutions in C++
 |268|[missing number](https://leetcode.com/problems/missing-number)|[C++](268.missing-number.cpp)|
 |273|[integer to english words](https://leetcode.com/problems/integer-to-english-words)|[C++](273.integer-to-english-words.cpp)|
 |274|[h index](https://leetcode.com/problems/h-index)|[Python3](274.h-index.py)|
+|295|[find median from data stream](https://leetcode.com/problems/find-median-from-data-stream)|[C++](295.find-median-from-data-stream.cpp)|
 |297|[serialize and deserialize binary tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[C++](297.serialize-and-deserialize-binary-tree.cpp)|
 |328|[odd even linked list](https://leetcode.com/problems/odd-even-linked-list)|[C++](328.odd-even-linked-list.cpp)|
 |338|[counting bits](https://leetcode.com/problems/counting-bits)|[C++](338.counting-bits.cpp)|
 |342|[power of four](https://leetcode.com/problems/power-of-four)|[Python3](342.power-of-four.py)|
+|347|[top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements)|[C++](347.top-k-frequent-elements.cpp)|
 |371|[sum of two integers](https://leetcode.com/problems/sum-of-two-integers)|[C++](371.sum-of-two-integers.cpp)|
 |409|[longest palindrome](https://leetcode.com/problems/longest-palindrome)|[Python3](409.longest-palindrome.py)|
 |424|[longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|[C++](424.longest-repeating-character-replacement.cpp)|
