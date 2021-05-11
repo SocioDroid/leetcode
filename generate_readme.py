@@ -20,9 +20,9 @@ solvedProblems = OrderedDict(sorted(solvedProblems.items()))
 # print(solvedProblems)
 for key, value in solvedProblems.items():
     if value[-1] == "cpp":
-        readme+="|{}|[{}]({})|[C++]({})|\n".format(key,value[0],value[1],value[2])
+        readme+="|{}|[{}]({})|[C++]({})|\n".format(key,value[0].title(),value[1],value[2])
     elif value[-1] == "py":
-        readme+="|{}|[{}]({})|[Python3]({})|\n".format(key,value[0],value[1],value[2])
+        readme+="|{}|[{}]({})|[Python3]({})|\n".format(key,value[0].title(),value[1],value[2])
 
 # print(readme)
 f = open("README.md", 'r+')
