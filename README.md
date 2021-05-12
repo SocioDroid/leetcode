@@ -80,6 +80,7 @@ My accepted leetcode solutions in C++
 |700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[C++](700.search-in-a-binary-search-tree.cpp)|
 |703|[Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|[C++](703.kth-largest-element-in-a-stream.cpp)|
 |705|[Design Hash Set](https://leetcode.com/problems/design-hash-set)|[Python3](705.design-hash-set.py)|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time)|[C++](743.network-delay-time.cpp)|
 |785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)|[C++](785.is-graph-bipartite.cpp)|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[Python3](987.vertical-order-traversal-of-a-binary-tree.py)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|[C++](994.rotting-oranges.cpp)|
