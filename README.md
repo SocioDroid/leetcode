@@ -64,6 +64,7 @@ My accepted leetcode solutions in C++
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[C++](347.top-k-frequent-elements.cpp)|
 |371|[Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[C++](371.sum-of-two-integers.cpp)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Python3](409.longest-palindrome.py)|
+|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|[C++](417.pacific-atlantic-water-flow.cpp)|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|[C++](424.longest-repeating-character-replacement.cpp)|
 |435|[Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)|[C++](435.non-overlapping-intervals.cpp)|
 |437|[Path Sum Iii](https://leetcode.com/problems/path-sum-iii)|[Python3](437.path-sum-iii.py)|
@@ -91,3 +92,5 @@ My accepted leetcode solutions in C++
 |1286|[Iterator For Combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](1286.iterator-for-combination.py)|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)|[C++](1550.three-consecutive-odds.cpp)|
 |1551|[Minimum Operations To Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)|[Python3](1551.minimum-operations-to-make-array-equal.py)|
+|1557|[Minimum Number Of Vertices To Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|[C++](1557.minimum-number-of-vertices-to-reach-all-nodes.cpp)|
+|1791|[Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|[C++](1791.find-center-of-star-graph.cpp)|
