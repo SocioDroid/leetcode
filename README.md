@@ -84,6 +84,7 @@ My accepted leetcode solutions in C++
 |785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)|[C++](785.is-graph-bipartite.cpp)|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[Python3](987.vertical-order-traversal-of-a-binary-tree.py)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|[C++](994.rotting-oranges.cpp)|
+|997|[Find The Town Judge](https://leetcode.com/problems/find-the-town-judge)|[C++](997.find-the-town-judge.cpp)|
 |1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[C++](1038.binary-search-tree-to-greater-sum-tree.cpp)|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[C++](1047.remove-all-adjacent-duplicates-in-string.cpp)|
 |1235|[Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|[C++](1235.maximum-profit-in-job-scheduling.cpp)|
