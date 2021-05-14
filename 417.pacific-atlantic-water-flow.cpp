@@ -141,5 +141,58 @@ public:
         return ans;
     }
 };
+
+//DFS
+class Solution {
+public:
+    
+   
+    vector<vector<int>> dir = {{0,1},{0,-1},{1,0},{-1,0}};
+    
+    vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
+            
+        vector<vector<int>> ans;
+        
+        int row = heights.size(), col = heights[0].size();
+        
+        vector<vector<bool>> pacific(row, vector<bool>(col));
+        vector<vector<bool>> atlantic(row, vector<bool>(col));
+        
+        //dfs
+        for(int i = 0; i<col; i++){            
+            dfs(heights, 0 , i , INT_MIN, pacific);
+            dfs(heights, row-1 , i , INT_MIN, atlantic);
+        }
+        
+        for(int i = 0; i<row; i++){            
+            dfs(heights, i , 0 , INT_MIN, pacific);
+            dfs(heights, i , col-1 , INT_MIN, atlantic);
+        }
+        
+        //main call
+        for(int i = 0; i< heights.size(); i++)
+        {
+            for(int j = 0; j< heights[0].size(); j++)
+            {
+                if(pacific[i][j] && atlantic[i][j]){
+                    ans.push_back({i,j});
+                }
+            }
+        }
+        
+        return ans;
+    }
+    
+    void dfs(vector<vector<int>> &heights, int i, int j, int prev, vector<vector<bool>> &ocean){
+        
+        if(i<0 || j<0 || i>=heights.size() || j>=heights[0].size()) return;
+        if(heights[i][j] < prev || ocean[i][j]) return;
+        ocean[i][j] = true;
+        
+        for(auto x: dir){
+            dfs(heights, x[0]+i, x[1]+j, heights[i][j], ocean);
+        }        
+    }
+};
 // @lc code=end
 

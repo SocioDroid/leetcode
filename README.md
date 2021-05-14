@@ -42,10 +42,14 @@ My accepted leetcode solutions in C++
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](121.best-time-to-buy-and-sell-stock.cpp)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[C++](124.binary-tree-maximum-path-sum.cpp)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](125.valid-palindrome.cpp)|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph)|[C++](133.clone-graph.cpp)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[C++](143.reorder-list.cpp)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[C++](144.binary-tree-preorder-traversal.cpp)|
 |191|[Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[C++](191.number-of-1-bits.cpp)|
+|200|[Number Of Islands](https://leetcode.com/problems/number-of-islands)|[C++](200.number-of-islands.cpp)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C++](206.reverse-linked-list.cpp)|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[C++](207.course-schedule.cpp)|
+|210|[Course Schedule Ii](https://leetcode.com/problems/course-schedule-ii)|[C++](210.course-schedule-ii.cpp)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](217.contains-duplicate.cpp)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[C++](226.invert-binary-tree.cpp)|
 |230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[C++](230.kth-smallest-element-in-a-bst.cpp)|
@@ -73,6 +77,7 @@ My accepted leetcode solutions in C++
 |450|[Delete Node In A Bst](https://leetcode.com/problems/delete-node-in-a-bst)|[C++](450.delete-node-in-a-bst.cpp)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[C++](496.next-greater-element-i.cpp)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Python3](520.detect-capital.py)|
+|547|[Number Of Provinces](https://leetcode.com/problems/number-of-provinces)|[C++](547.number-of-provinces.cpp)|
 |572|[Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[C++](572.subtree-of-another-tree.cpp)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[C++](617.merge-two-binary-trees.cpp)|
 |653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[C++](653.two-sum-iv-input-is-a-bst.cpp)|
@@ -90,6 +95,7 @@ My accepted leetcode solutions in C++
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[C++](1047.remove-all-adjacent-duplicates-in-string.cpp)|
 |1235|[Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|[C++](1235.maximum-profit-in-job-scheduling.cpp)|
 |1286|[Iterator For Combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](1286.iterator-for-combination.py)|
+|1319|[Number Of Operations To Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|[C++](1319.number-of-operations-to-make-network-connected.cpp)|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)|[C++](1550.three-consecutive-odds.cpp)|
 |1551|[Minimum Operations To Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)|[Python3](1551.minimum-operations-to-make-array-equal.py)|
 |1557|[Minimum Number Of Vertices To Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|[C++](1557.minimum-number-of-vertices-to-reach-all-nodes.cpp)|
