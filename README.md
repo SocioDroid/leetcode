@@ -43,6 +43,7 @@ My accepted leetcode solutions in C++
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](121.best-time-to-buy-and-sell-stock.cpp)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[C++](124.binary-tree-maximum-path-sum.cpp)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](125.valid-palindrome.cpp)|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[C++](128.longest-consecutive-sequence.cpp)|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph)|[C++](133.clone-graph.cpp)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[C++](143.reorder-list.cpp)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[C++](144.binary-tree-preorder-traversal.cpp)|
