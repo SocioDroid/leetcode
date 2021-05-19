@@ -13,6 +13,7 @@ My accepted leetcode solutions in C++
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++](20.valid-parentheses.cpp)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[C++](21.merge-two-sorted-lists.cpp)|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[C++](23.merge-k-sorted-lists.cpp)|
+|28|[Implement Str Str](https://leetcode.com/problems/implement-str-str)|[C++](28.implement-str-str.cpp)|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](33.search-in-rotated-sorted-array.cpp)|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[C++](34.find-first-and-last-position-of-element-in-sorted-array.cpp)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[C++](42.trapping-rain-water.cpp)|
@@ -82,6 +83,7 @@ My accepted leetcode solutions in C++
 |547|[Number Of Provinces](https://leetcode.com/problems/number-of-provinces)|[C++](547.number-of-provinces.cpp)|
 |572|[Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[C++](572.subtree-of-another-tree.cpp)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[C++](617.merge-two-binary-trees.cpp)|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[C++](647.palindromic-substrings.cpp)|
 |653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[C++](653.two-sum-iv-input-is-a-bst.cpp)|
 |680|[Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii)|[C++](680.valid-palindrome-ii.cpp)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|[C++](684.redundant-connection.cpp)|
