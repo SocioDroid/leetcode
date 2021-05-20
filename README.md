@@ -53,6 +53,7 @@ My accepted leetcode solutions in C++
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C++](206.reverse-linked-list.cpp)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[C++](207.course-schedule.cpp)|
 |210|[Course Schedule Ii](https://leetcode.com/problems/course-schedule-ii)|[C++](210.course-schedule-ii.cpp)|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[C++](214.shortest-palindrome.cpp)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](217.contains-duplicate.cpp)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[C++](226.invert-binary-tree.cpp)|
 |230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[C++](230.kth-smallest-element-in-a-bst.cpp)|
