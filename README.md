@@ -14,12 +14,16 @@ My accepted leetcode solutions in C++
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[C++](21.merge-two-sorted-lists.cpp)|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[C++](23.merge-k-sorted-lists.cpp)|
 |28|[Implement Str Str](https://leetcode.com/problems/implement-str-str)|[C++](28.implement-str-str.cpp)|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](31.next-permutation.cpp)|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[C++](33.search-in-rotated-sorted-array.cpp)|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[C++](34.find-first-and-last-position-of-element-in-sorted-array.cpp)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[C++](37.sudoku-solver.cpp)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[C++](42.trapping-rain-water.cpp)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[C++](48.rotate-image.cpp)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[C++](49.group-anagrams.cpp)|
 |50|[Pow X N](https://leetcode.com/problems/pow-x-n)|[C++](50.pow-x-n.cpp)|
+|51|[N Queens](https://leetcode.com/problems/n-queens)|[C++](51.n-queens.cpp)|
+|52|[N Queens Ii](https://leetcode.com/problems/n-queens-ii)|[C++](52.n-queens-ii.cpp)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](53.maximum-subarray.cpp)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[C++](54.spiral-matrix.cpp)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[C++](56.merge-intervals.cpp)|
