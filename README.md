@@ -12,6 +12,7 @@ My accepted leetcode solutions in C++
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[C++](19.remove-nth-node-from-end-of-list.cpp)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++](20.valid-parentheses.cpp)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[C++](21.merge-two-sorted-lists.cpp)|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](22.generate-parentheses.cpp)|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[C++](23.merge-k-sorted-lists.cpp)|
 |28|[Implement Str Str](https://leetcode.com/problems/implement-str-str)|[C++](28.implement-str-str.cpp)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](31.next-permutation.cpp)|
