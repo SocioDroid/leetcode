@@ -29,6 +29,9 @@ My accepted leetcode solutions in C++
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[C++](54.spiral-matrix.cpp)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[C++](56.merge-intervals.cpp)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|[C++](57.insert-interval.cpp)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[C++](62.unique-paths.cpp)|
+|63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii)|[C++](63.unique-paths-ii.cpp)|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[C++](64.minimum-path-sum.cpp)|
 |69|[Sqrt X](https://leetcode.com/problems/sqrt-x)|[C++](69.sqrt-x.cpp)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[C++](73.set-matrix-zeroes.cpp)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[C++](76.minimum-window-substring.cpp)|
@@ -71,6 +74,7 @@ My accepted leetcode solutions in C++
 |274|[H Index](https://leetcode.com/problems/h-index)|[Python3](274.h-index.py)|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[C++](295.find-median-from-data-stream.cpp)|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[C++](297.serialize-and-deserialize-binary-tree.cpp)|
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[C++](322.coin-change.cpp)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[C++](328.odd-even-linked-list.cpp)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C++](338.counting-bits.cpp)|
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four)|[Python3](342.power-of-four.py)|
@@ -105,6 +109,7 @@ My accepted leetcode solutions in C++
 |1010|[Pairs Of Songs With Total Durations Divisible By 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[C++](1010.pairs-of-songs-with-total-durations-divisible-by-60.cpp)|
 |1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[C++](1038.binary-search-tree-to-greater-sum-tree.cpp)|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[C++](1047.remove-all-adjacent-duplicates-in-string.cpp)|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[C++](1143.longest-common-subsequence.cpp)|
 |1235|[Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|[C++](1235.maximum-profit-in-job-scheduling.cpp)|
 |1286|[Iterator For Combination](https://leetcode.com/problems/iterator-for-combination)|[Python3](1286.iterator-for-combination.py)|
 |1319|[Number Of Operations To Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|[C++](1319.number-of-operations-to-make-network-connected.cpp)|
