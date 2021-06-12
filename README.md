@@ -9,6 +9,7 @@ My accepted leetcode solutions
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|24 ms|10.9 MB|26-04-2021 12:29|[cpp](code/3.longest-substring-without-repeating-characters.cpp)|
 |4|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|36 ms|90.3 MB|25-04-2021 07:56|[cpp](code/4.median-of-two-sorted-arrays.cpp)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|80 ms|231.5 MB|19-05-2021 13:41|[cpp](code/5.longest-palindromic-substring.cpp)|
+|8|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|0 ms|7 MB|28-05-2021|[cpp](code/8.string-to-integer-atoi.cpp)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|92 ms|59 MB|27-04-2021 07:41|[cpp](code/11.container-with-most-water.cpp)|
 |15|[3Sum](https://leetcode.com/problems/3sum)|68 ms|20 MB|25-04-2021 18:06|[cpp](code/15.3sum.cpp)|
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|8 ms|10.6 MB|01-05-2021 09:40|[cpp](code/19.remove-nth-node-from-end-of-list.cpp)|
@@ -21,6 +22,7 @@ My accepted leetcode solutions
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|4 ms|11.1 MB|27-04-2021 07:16|[cpp](code/33.search-in-rotated-sorted-array.cpp)|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|516 ms|15.1 MB|09-08-2020|[python3](code/34.find-first-and-last-position-of-element-in-sorted-array.py)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|36 ms|6.5 MB|20-05-2021 11:41|[cpp](code/37.sudoku-solver.cpp)|
+|38|[Count And Say](https://leetcode.com/problems/count-and-say)|36 ms|6.6 MB|30-05-2021|[cpp](code/38.count-and-say.cpp)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|0 ms|14.4 MB|25-04-2021 06:48|[cpp](code/42.trapping-rain-water.cpp)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|4 ms|7.1 MB|27-04-2021 18:22|[cpp](code/48.rotate-image.cpp)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|44 ms|20.7 MB|27-04-2021 18:52|[cpp](code/49.group-anagrams.cpp)|
@@ -31,17 +33,23 @@ My accepted leetcode solutions
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|0 ms|6.7 MB|27-04-2021 17:46|[cpp](code/54.spiral-matrix.cpp)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|20 ms|14.2 MB|24-04-2021 17:07|[cpp](code/56.merge-intervals.cpp)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|12 ms|17.1 MB|25-04-2021 15:12|[cpp](code/57.insert-interval.cpp)|
+|59|[Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii)|0 ms|6.5 MB|28-05-2021|[cpp](code/59.spiral-matrix-ii.cpp)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|0 ms|6.4 MB|21-05-2021 19:06|[cpp](code/62.unique-paths.cpp)|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii)|4 ms|7.6 MB|21-05-2021 18:33|[cpp](code/63.unique-paths-ii.cpp)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|8 ms|10.2 MB|21-05-2021 09:58|[cpp](code/64.minimum-path-sum.cpp)|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx)|0 ms|5.9 MB|03-05-2021 10:48|[cpp](code/69.sqrtx.cpp)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|12 ms|13.4 MB|19-04-2021 05:35|[cpp](code/73.set-matrix-zeroes.cpp)|
+|74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|0 ms|9.5 MB|28-05-2021|[cpp](code/74.search-a-2d-matrix.cpp)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors)|0 ms|8.1 MB|27-05-2021|[cpp](code/75.sort-colors.cpp)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|108 ms|16.4 MB|15-05-2021 12:57|[cpp](code/76.minimum-window-substring.cpp)|
 |78|[Subsets](https://leetcode.com/problems/subsets)|0 ms|7 MB|04-05-2021 10:34|[cpp](code/78.subsets.cpp)|
 |79|[Word Search](https://leetcode.com/problems/word-search)|132 ms|7.3 MB|11-05-2021 14:29|[cpp](code/79.word-search.cpp)|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|4 ms|14.1 MB|27-04-2021|[cpp](code/81.search-in-rotated-sorted-array-ii.cpp)|
+|84|[Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|212 ms|66.4 MB|03-06-2021|[cpp](code/84.largest-rectangle-in-histogram.cpp)|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|4 ms|9.1 MB|31-05-2021|[cpp](code/88.merge-sorted-array.cpp)|
 |90|[Subsets Ii](https://leetcode.com/problems/subsets-ii)|8 ms|8.5 MB|07-05-2021 16:10|[cpp](code/90.subsets-ii.cpp)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|0 ms|8.3 MB|01-05-2021 07:18|[cpp](code/94.binary-tree-inorder-traversal.cpp)|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string)|1852 ms|6.1 MB|02-06-2021|[cpp](code/97.interleaving-string.cpp)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|16 ms|21.8 MB|05-05-2021 12:26|[cpp](code/98.validate-binary-search-tree.cpp)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|4 ms|10.3 MB|01-05-2021 07:52|[cpp](code/100.same-tree.cpp)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|4 ms|12.5 MB|05-05-2021 06:14|[cpp](code/102.binary-tree-level-order-traversal.cpp)|
@@ -59,7 +67,9 @@ My accepted leetcode solutions
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph)|8 ms|9.2 MB|14-05-2021 12:18|[cpp](code/133.clone-graph.cpp)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|36 ms|17.7 MB|01-05-2021 07:05|[cpp](code/143.reorder-list.cpp)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|0 ms|8.3 MB|04-05-2021|[cpp](code/144.binary-tree-preorder-traversal.cpp)|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap)|8 ms|8.5 MB|30-05-2021|[cpp](code/164.maximum-gap.cpp)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|32 ms|13.6 MB|10-08-2020|[python3](code/171.excel-sheet-column-number.py)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|36 ms|25 MB|27-05-2021|[cpp](code/189.rotate-array.cpp)|
 |191|[Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|4 ms|5.9 MB|03-05-2021 09:16|[cpp](code/191.number-of-1-bits.cpp)|
 |200|[Number Of Islands](https://leetcode.com/problems/number-of-islands)|56 ms|15.4 MB|14-05-2021 11:42|[cpp](code/200.number-of-islands.cpp)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|8 ms|8.4 MB|30-04-2021 10:25|[cpp](code/206.reverse-linked-list.cpp)|
@@ -68,6 +78,7 @@ My accepted leetcode solutions
 |210|[Course Schedule Ii](https://leetcode.com/problems/course-schedule-ii)|40 ms|15 MB|14-05-2021 09:17|[cpp](code/210.course-schedule-ii.cpp)|
 |211|[Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)|132 ms|21.7 MB|06-08-2020|[python3](code/211.design-add-and-search-words-data-structure.py)|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|28 ms|7.9 MB|20-05-2021 07:35|[cpp](code/214.shortest-palindrome.cpp)|
+|215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|8 ms|10.1 MB|27-05-2021|[cpp](code/215.kth-largest-element-in-an-array.cpp)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|44 ms|20.8 MB|17-04-2021 04:36|[cpp](code/217.contains-duplicate.cpp)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|0 ms|9.6 MB|04-05-2021 10:18|[cpp](code/226.invert-binary-tree.cpp)|
 |230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|16 ms|24.4 MB|05-05-2021 13:36|[cpp](code/230.kth-smallest-element-in-a-bst.cpp)|
@@ -79,13 +90,20 @@ My accepted leetcode solutions
 |273|[Integer To English Words](https://leetcode.com/problems/integer-to-english-words)|20 ms|14.1 MB|03-05-2021 11:45|[python3](code/273.integer-to-english-words.py)|
 |274|[H Index](https://leetcode.com/problems/h-index)|32 ms|14 MB|12-08-2020|[python3](code/274.h-index.py)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|376 ms|10 MB|25-05-2021|[cpp](code/279.perfect-squares.cpp)|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|40 ms|8.8 MB|27-05-2021|[cpp](code/283.move-zeroes.cpp)|
+|287|[Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|92 ms|61.3 MB|31-05-2021|[cpp](code/287.find-the-duplicate-number.cpp)|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|100 ms|46.9 MB|10-05-2021 12:53|[cpp](code/295.find-median-from-data-stream.cpp)|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|140 ms|57.9 MB|05-05-2021 07:31|[cpp](code/297.serialize-and-deserialize-binary-tree.cpp)|
+|303|[Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable)|20 ms|17.7 MB|26-05-2021|[cpp](code/303.range-sum-query-immutable.cpp)|
+|304|[Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|148 ms|67.1 MB|28-05-2021|[cpp](code/304.range-sum-query-2d-immutable.cpp)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|92 ms|14.5 MB|21-05-2021 12:19|[cpp](code/322.coin-change.cpp)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|12 ms|10.5 MB|30-04-2021 09:42|[cpp](code/328.odd-even-linked-list.cpp)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|4 ms|7.6 MB|03-05-2021 09:40|[cpp](code/338.counting-bits.cpp)|
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four)|28 ms|13.9 MB|04-08-2020|[python3](code/342.power-of-four.py)|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|28 ms|13.9 MB|04-08-2020|[python3](code/344.reverse-string.py)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|20 ms|14.1 MB|10-05-2021 06:18|[cpp](code/347.top-k-frequent-elements.cpp)|
+|349|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|4 ms|10.4 MB|27-05-2021|[cpp](code/349.intersection-of-two-arrays.cpp)|
+|350|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|8 ms|10.4 MB|27-05-2021|[cpp](code/350.intersection-of-two-arrays-ii.cpp)|
 |371|[Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|0 ms|6 MB|07-05-2021 10:59|[cpp](code/371.sum-of-two-integers.cpp)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|32 ms|12.7 MB|15-08-2020|[python](code/409.longest-palindrome.py)|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|300 ms|11.9 MB|25-05-2021|[cpp](code/416.partition-equal-subset-sum.cpp)|
@@ -98,6 +116,8 @@ My accepted leetcode solutions
 |450|[Delete Node In A Bst](https://leetcode.com/problems/delete-node-in-a-bst)|32 ms|32.6 MB|07-05-2021 10:37|[cpp](code/450.delete-node-in-a-bst.cpp)|
 |468|[Validate Ip Address](https://leetcode.com/problems/validate-ip-address)|28 ms|14 MB|16-06-2020 10:36|[python3](code/468.validate-ip-address.py)|
 |474|[Ones And Zeroes](https://leetcode.com/problems/ones-and-zeroes)|80 ms|8.7 MB|22-05-2021 06:00|[cpp](code/474.ones-and-zeroes.cpp)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|40 ms|36.2 MB|29-05-2021|[cpp](code/485.max-consecutive-ones.cpp)|
+|494|[Target Sum](https://leetcode.com/problems/target-sum)|1168 ms|8.9 MB|25-05-2021|[cpp](code/494.target-sum.cpp)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|4 ms|8.8 MB|25-04-2021 07:21|[cpp](code/496.next-greater-element-i.cpp)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|36 ms|13.9 MB|02-08-2020|[python3](code/520.detect-capital.py)|
 |547|[Number Of Provinces](https://leetcode.com/problems/number-of-provinces)|40 ms|14.4 MB|14-05-2021 09:46|[cpp](code/547.number-of-provinces.cpp)|
@@ -107,6 +127,7 @@ My accepted leetcode solutions
 |653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|44 ms|36.9 MB|06-05-2021 13:09|[cpp](code/653.two-sum-iv-input-is-a-bst.cpp)|
 |680|[Valid Palindrome Ii](https://leetcode.com/problems/valid-palindrome-ii)|64 ms|19.7 MB|27-04-2021 09:21|[cpp](code/680.valid-palindrome-ii.cpp)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|32 ms|14 MB|11-05-2021 12:35|[cpp](code/684.redundant-connection.cpp)|
+|695|[Max Area Of Island](https://leetcode.com/problems/max-area-of-island)|40 ms|23.3 MB|03-06-2021|[cpp](code/695.max-area-of-island.cpp)|
 |698|[Partition To K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)|0 ms|9 MB|22-05-2021 06:59|[cpp](code/698.partition-to-k-equal-sum-subsets.cpp)|
 |700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|24 ms|34.9 MB|05-05-2021 12:54|[cpp](code/700.search-in-a-binary-search-tree.cpp)|
 |703|[Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|24 ms|19.9 MB|09-05-2021 16:41|[cpp](code/703.kth-largest-element-in-a-stream.cpp)|
@@ -117,6 +138,7 @@ My accepted leetcode solutions
 |771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)|28 ms|14.3 MB|29-03-2021 11:47|[python3](code/771.jewels-and-stones.py)|
 |785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)|24 ms|13.9 MB|11-05-2021 13:33|[cpp](code/785.is-graph-bipartite.cpp)|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)|40 ms|12.6 MB|17-05-2021 10:51|[cpp](code/787.cheapest-flights-within-k-stops.cpp)|
+|885|[Spiral Matrix Iii](https://leetcode.com/problems/spiral-matrix-iii)|12 ms|12 MB|29-05-2021|[cpp](code/885.spiral-matrix-iii.cpp)|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|28 ms|13.9 MB|08-08-2020|[python3](code/987.vertical-order-traversal-of-a-binary-tree.py)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|44 ms|14 MB|10-08-2020|[python3](code/994.rotting-oranges.py)|
 |997|[Find The Town Judge](https://leetcode.com/problems/find-the-town-judge)|256 ms|126.6 MB|13-05-2021 09:30|[cpp](code/997.find-the-town-judge.cpp)|
@@ -134,6 +156,7 @@ My accepted leetcode solutions
 |1365|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|12 ms|39.2 MB|30-03-2021 13:37|[java](code/1365.how-many-numbers-are-smaller-than-the-current-number.java)|
 |1389|[Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)|4 ms|8.3 MB|19-04-2021 13:57|[cpp](code/1389.create-target-array-in-the-given-order.cpp)|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|36 ms|14.4 MB|27-03-2021 07:47|[python3](code/1431.kids-with-the-greatest-number-of-candies.py)|
+|1465|[Maximum Area Of A Piece Of Cake After Horizontal And Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|132 ms|32.3 MB|03-06-2021|[cpp](code/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.cpp)|
 |1470|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|0 ms|43 MB|14-06-2020 09:06|[java](code/1470.shuffle-the-array.java)|
 |1480|[Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array)|4 ms|40.7 MB|14-06-2020 08:58|[java](code/1480.running-sum-of-1d-array.java)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|1 ms|36.6 MB|30-03-2021 13:00|[java](code/1512.number-of-good-pairs.java)|
@@ -143,6 +166,7 @@ My accepted leetcode solutions
 |1557|[Minimum Number Of Vertices To Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|300 ms|105.8 MB|13-05-2021 11:01|[cpp](code/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp)|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system)|6 ms|39.5 MB|30-03-2021 13:10|[java](code/1603.design-parking-system.java)|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|0 ms|38.5 MB|26-03-2021 14:11|[java](code/1672.richest-customer-wealth.java)|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value)|284 ms|99.4 MB|28-05-2021|[cpp](code/1695.maximum-erasure-value.cpp)|
 |1791|[Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|224 ms|77.2 MB|13-05-2021 10:52|[cpp](code/1791.find-center-of-star-graph.cpp)|
 |1822|[Sign Of The Product Of An Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)|8 ms|10.3 MB|19-04-2021 14:10|[cpp](code/1822.sign-of-the-product-of-an-array.cpp)|
 |1832|[Check If The Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram)|4 ms|6.4 MB|19-04-2021 13:42|[cpp](code/1832.check-if-the-sentence-is-pangram.cpp)|
